@@ -39,6 +39,8 @@ html, body {
     gap: 20px;
     margin-right: 20px;
     font-family: Roboto;
+    flex-wrap: wrap;
+    text-decoration: none;
 }
 
 .hero-paragraph {
