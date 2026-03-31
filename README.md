@@ -1,2 +1,2 @@
 # website_v1
-a small website, and a readme !
+I'm doing this for Odin Project and partially for a school project, yk mix and mashing it.
