@@ -56,3 +56,21 @@ html, body {
     gap: 15px;
     max-width: 550px;
 }
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-family: Roboto;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 30px;
+    font-weight: 600;
+}
+
+.hero-section img {
+    max-width: 450px;
+    height: auto;
+    border: 1px solid red;
+    flex-shrink: 0;
+}
