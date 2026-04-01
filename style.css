@@ -56,3 +56,37 @@ html, body {
     gap: 15px;
     max-width: 550px;
 }
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-family: Roboto;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 30px;
+    font-weight: 600;
+}
+
+.hero-section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.hero-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.hero-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* This is the next section of styling for the Random info section. */
