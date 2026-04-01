@@ -23,6 +23,7 @@ html, body {
 .header {
     color: #F9FAF8;
     font-size: 24px;
+    margin-right: 12px;
 }
 
 .hero-main-text {
@@ -86,7 +87,54 @@ button {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 0 auto;
+    margin: 0;
 }
 
-/* This is the next section of styling for the Random info section. */
+.hero-margin {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    margin-right: -40px;
+}
+
+/* This is the next section Info Section. */
+
+.call-to-action {
+    background-color: #F9FAF8;
+    font-family: Roboto;
+}
+
+.header2 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    font-family: Roboto;
+}
+
+.img-container {
+    background-color: #F9FAF8;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.call-to-action img {
+    background-color: #F9FAF8;
+    max-width: 75%;
+    height: auto;
+    flex: 1;
+    align-self: center;
+    margin-left: 56px;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+/* This is the next section Quote, Inspiration &/or Goals. */ 
