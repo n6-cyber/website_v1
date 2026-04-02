@@ -78,7 +78,7 @@ body {
 }
 
 .cta-blue {
-    background-color: #1d4ed8;
+    background-color: #f9faf8;
     color: #ffffff;
     padding: 40px 5%;
     text-align: center;
@@ -86,7 +86,7 @@ body {
 
 .cta-blue .cta-box {
     border: 2px solid #3b82f6;
-    background-color: #2563eb;
+    background-color: #3882f6;
     padding: 24px;
     border-radius: 12px;
     max-width: 900px;
@@ -131,12 +131,6 @@ body {
     font-size: 18px;
     font-weight: 600;
     cursor: pointer;
-}
-
-.hero-section button:hover,
-.call-to-action button:hover,
-.bottom-action button:hover {
-    background-color: #2563eb;
 }
 
 .hero-image {
@@ -201,15 +195,15 @@ body {
 }
 
 .bottom-button {
-    border: none;
-    font-family: Roboto;
-    font-size: 24px;
-    color: #f9faf8;
     background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
     border-radius: 8px;
-    font-weight: 900;
-    width: auto;
-    height: 40px;
+    padding: 10px 24px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 2px solid #f9faf8;
 }
 
 .bottom-section {
